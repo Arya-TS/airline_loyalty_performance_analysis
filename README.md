@@ -88,7 +88,7 @@ The layout ensures key insights are visible without requiring user interaction, 
 
 (Add your image file in an images folder and keep this line)
 
-![Dashboard Preview](images/dashboard-preview.png)
+![Dashboard Preview](images)
 
 📚 What I Learned
 
