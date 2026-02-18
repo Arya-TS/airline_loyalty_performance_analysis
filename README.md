@@ -102,4 +102,4 @@ Applying DAX for meaningful metric calculations
 
 🚀 Project File
 
-The .pbix file is included in this repository for review and exploration.
+Power BI file available upon request.
